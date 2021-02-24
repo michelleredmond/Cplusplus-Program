@@ -1,5 +1,5 @@
 # Cplusplus-Program
-
+Clock Code- Write professional, well documented, and readable code.
 What did you do particularly well?
 I was able to make my flowchart follow the code build. Wich essentially produced the correct code. 
 
